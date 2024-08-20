@@ -1,0 +1,15 @@
+/* styles.css */
+
+* {
+    color: maroon;
+    background-color: rgba(201, 201, 193, 0.76);
+  }
+
+  a:hover {
+    color: black;
+    font-weight: bold;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
